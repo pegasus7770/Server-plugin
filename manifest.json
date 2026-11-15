@@ -1,0 +1,15 @@
+{
+  "name": "ServerInspector",
+  "description": "v3 - View-only Server Settings, Roles & Permissions Inspector.",
+  "authors": [
+    {
+      "name": "pegasus7770 v3",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "877c7ccd4eefeb351a57aa440af04bf9b2266f121f8bb8521301a98ac5a3c8d9",
+  "vendetta": {
+    "icon": "ic_settings_24px"
+  }
+}
